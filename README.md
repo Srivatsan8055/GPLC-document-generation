@@ -19,4 +19,6 @@ function App() {
 
 export default App;
 
-4 . 
+4 . Create a new file src/GPLCDocumentGenerator.js and paste the component code we've been working with.
+5 . Create src/GPLCDocumentGenerator.css and add the CSS styles we discussed earlier.
+
