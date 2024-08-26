@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+import './GPLCDocumentGenerator.css';
 // Main component for GPLC Document Generation
 function GPLCDocumentGenerator() {
   // State hooks for form inputs
